@@ -1,0 +1,80 @@
+body  {
+	background-image: url("../images/Marvelbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: 150% 150%;
+}
+
+div { 
+background-color: #0000e6;
+text-color: white; 
+}
+
+
+.jumbotron {
+	background-color: red;
+}
+
+#popculture {
+	background-image: url("../images/PopCulture.png");
+	height: 700px;
+	background-size: cover; 
+	
+}
+
+#wrestling {
+	background-image: url("../images/Wrestling.jpg");
+	height: 750px;
+	background-size: cover;
+}
+
+#comicbooks {
+	background-image: url("../images/MarvelDC.jpg");
+	height: 800px;
+	background-size: cover;
+}
+	
+#graphicnovels {
+	background-image: url("../images/GraphicNovels.jpg");
+	height: 800px;
+	background-size: cover;
+	
+}
+
+#videogames {
+	background-image: url("../images/VideoGames.jpg");
+	height: 750px;
+	background-size: cover;
+	
+}
+
+#movies {
+	background-image: url("../images/Movies.jpg");
+	height: 750px;
+	background-size: cover;
+	
+}
+
+#televisionshows {
+	background-image: url("../images/TelevisionShows.jpg");
+	height: 775px;
+	background-size: cover;
+	
+} 
+
+#mangas {
+	background-image: url("../images/Mangas.jpg");
+	height: 750px;
+	background-size: cover; 
+	
+}
+
+
+
+
+
+
+
+	
+	
+	
+
